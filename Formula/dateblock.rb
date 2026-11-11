@@ -2,8 +2,8 @@
 class Dateblock < Formula
   desc "Block (sleep) until a cron-style moment in time"
   homepage "https://github.com/caronc/dateblock"
-  url "https://github.com/caronc/dateblock/archive/refs/tags/v2.1.0.tar.gz"
-  sha256 "ed79bf4c30e1c4c8c3f9a94b4a812cb88f22e4345adc5fbe38a3f5f3d5414d85"
+  url "https://github.com/caronc/dateblock/archive/refs/tags/v2.2.0.tar.gz"
+  sha256 "efb93761e275e450690f9c2e14b93becb562973f6d474567225a3962e215dc8d"
   license "GPL-2.0-or-later"
   head "https://github.com/caronc/dateblock.git", branch: "master"
 
